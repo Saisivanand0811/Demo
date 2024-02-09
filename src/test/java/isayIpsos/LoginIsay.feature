@@ -11,3 +11,4 @@ Examples:
  |Username              |Password|
  |saisivanad66@gmail.com|@Myworld99|
  |Saisivanand143@gmail.com|@Myworld99|
+ |Afroz99@gmail.com	|@Myworld99|
